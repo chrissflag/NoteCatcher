@@ -11,6 +11,10 @@ import android.widget.Button;
 import android.widget.Toast;
 import java.io.IOException;
 
+/*
+* This is the first version downloded from dropbox --Jiaqi
+* */
+
 public class MainActivity extends AppCompatActivity {
 
     private MediaRecorder mRecorder;
