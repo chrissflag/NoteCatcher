@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">NoteCatcher</string>
-<<<<<<< HEAD
     <string name="action_settings">Settings</string>
-=======
->>>>>>> 5aeff21b5840994ee0e180fe263d93c791acbeca
+    <string name="record_btn">record</string>
+    <string name="finish_btn">finish</string>
+    <string name="play_btn">play</string>
+    <string name="stop_btn">stop</string>
+    <string name="see_saved_btn">See saved audios</string>
 </resources>
